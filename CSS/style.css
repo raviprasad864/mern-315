@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+.title{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+.card-title{
+    font-size: 27px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 20px;
+    color: white;
+}
+.card-desc{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    margin-top: -10px;
+    padding-left: 20px;
+    color: white;
+}
+.card-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 270px;
+}
+.Lonavla{
+    background-color: #cc2d4a;
+    width: 240px;
+    height: 320px;
+    border-radius: 12px;
+}
+
+.Lonavla-img{
+    width: 100%;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.Calangute{
+    background-color: #d93b30;
+    width: 240px;
+    height: 320px;
+    border-radius: 12px;
+}
+
+.Calangute-img{
+    width: 100%;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+.Puducherry{
+    background-color: #bc1a6e;
+    width: 240px;
+    height: 320px;
+    border-radius: 12px;
+}
+
+.Puducherry-img{
+    width: 100%;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+.Panchgani{
+    background-color: #de3151;
+    width: 240px;
+    height: 320px;
+    border-radius: 12px;
+}
+
+.Panchgani-img{
+    width: 100%;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
